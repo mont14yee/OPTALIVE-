@@ -1,0 +1,8 @@
+{
+  "name": "OPTALIVE",
+  "description": "Elite professional football analytics and streaming portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
