@@ -1,6 +1,6 @@
 {
   "name": "OPTALIVE",
-  "description": "Elite professional football analytics and streaming portal.",
+  "description": "Elite professional football analytics, match schedule, Opta telemetry, and live tracker.",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
